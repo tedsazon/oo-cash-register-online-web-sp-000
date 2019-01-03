@@ -16,5 +16,5 @@ class CashRegister
     quanitity.times do
       items << title
     end
-
+  end
 end
